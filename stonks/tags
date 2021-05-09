@@ -1,0 +1,23 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+FLAG_BUFFER	vuln.c	/^#define FLAG_BUFFER /;"	d	file:
+MAX_SYM_LEN	vuln.c	/^#define MAX_SYM_LEN /;"	d	file:
+Portfolio	vuln.c	/^} Portfolio;$/;"	t	typeref:struct:Portfolios	file:
+Portfolios	vuln.c	/^typedef struct Portfolios {$/;"	s	file:
+Stonk	vuln.c	/^} Stonk;$/;"	t	typeref:struct:Stonks	file:
+Stonks	vuln.c	/^typedef struct Stonks {$/;"	s	file:
+buy_stonks	vuln.c	/^int buy_stonks(Portfolio *p) {$/;"	f
+free_portfolio	vuln.c	/^void free_portfolio(Portfolio *p) {$/;"	f
+head	vuln.c	/^	Stonk *head;$/;"	m	struct:Portfolios	file:
+initialize_portfolio	vuln.c	/^Portfolio *initialize_portfolio() {$/;"	f
+main	vuln.c	/^int main(int argc, char *argv[])$/;"	f
+money	vuln.c	/^	int money;$/;"	m	struct:Portfolios	file:
+next	vuln.c	/^	struct Stonks *next;$/;"	m	struct:Stonks	typeref:struct:Stonks::Stonks	file:
+pick_symbol_with_AI	vuln.c	/^Stonk *pick_symbol_with_AI(int shares) {$/;"	f
+shares	vuln.c	/^	int shares;$/;"	m	struct:Stonks	file:
+symbol	vuln.c	/^	char symbol[MAX_SYM_LEN + 1];$/;"	m	struct:Stonks	file:
+view_portfolio	vuln.c	/^int view_portfolio(Portfolio *p) {$/;"	f

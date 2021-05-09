@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Fernet	keygenmepy.py	/^from cryptography.fernet import Fernet$/;"	i
+arcane_loop_trial	keygenmepy.py	/^arcane_loop_trial = True$/;"	v
+bUsername_trial	keygenmepy.py	/^bUsername_trial = b"GOUGH"$/;"	v
+base64	keygenmepy.py	/^import base64$/;"	i
+check_key	keygenmepy.py	/^def check_key(key, username_trial):$/;"	f
+decrypt_full_version	keygenmepy.py	/^def decrypt_full_version(key_str):$/;"	f
+enter_license	keygenmepy.py	/^def enter_license():$/;"	f
+estimate_burn	keygenmepy.py	/^def estimate_burn():$/;"	f
+full_version_code	keygenmepy.py	/^full_version_code = ""$/;"	v
+hashlib	keygenmepy.py	/^import hashlib$/;"	i
+intro_trial	keygenmepy.py	/^def intro_trial():$/;"	f
+jump_into_full	keygenmepy.py	/^jump_into_full = False$/;"	v
+key_full_template_trial	keygenmepy.py	/^key_full_template_trial = key_part_static1_trial + key_part_dynamic1_trial + key_part_static2_trial$/;"	v
+key_part_dynamic1_trial	keygenmepy.py	/^key_part_dynamic1_trial = "xxxxxxxx"$/;"	v
+key_part_static1_trial	keygenmepy.py	/^key_part_static1_trial = "picoCTF{1n_7h3_|<3y_of_"$/;"	v
+key_part_static2_trial	keygenmepy.py	/^key_part_static2_trial = "}"$/;"	v
+locked_estimate_vector	keygenmepy.py	/^def locked_estimate_vector():$/;"	f
+menu_trial	keygenmepy.py	/^def menu_trial():$/;"	f
+star_db_trial	keygenmepy.py	/^star_db_trial = {$/;"	v
+ui_flow	keygenmepy.py	/^def ui_flow():$/;"	f
+username_trial	keygenmepy.py	/^username_trial = "GOUGH"$/;"	v
+validate_choice	keygenmepy.py	/^def validate_choice(menu_choice):$/;"	f

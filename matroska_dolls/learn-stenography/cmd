@@ -1,0 +1,6 @@
+ dd if=testimg.jpeg bs=1 skip=1972141 of=test.zip
+ for hex 
+
+ vi file
+ :%!xxd
+
