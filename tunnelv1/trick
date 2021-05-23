@@ -1,0 +1,6 @@
+bitmapinfo header size
+
+where pixel array starts set size 00-0A 34 00
+size of the header 00-0E 38 00
+
+increase size of the picture hexed.it
