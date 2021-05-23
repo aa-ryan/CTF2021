@@ -3,7 +3,6 @@
 
 echo "Attempting disassembly of $1 ..."
 
-
 #This usage of "objdump" disassembles all (-D) of the first file given by 
 #invoker, but only prints out the ".text" section (-j .text) (only section
 #that matters in almost any compiled program...
